@@ -1,5 +1,6 @@
 # Get Chrome Extension using Trellix EDR
 # Author: Vu Duc Du
+# Email: duvd@mi2.com.vn
 $pshost = get-host
 $pswindow = $pshost.ui.rawui
 $newsize = $pswindow.buffersize
